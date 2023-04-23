@@ -22,7 +22,7 @@ Ans. There are many problems with the code which is as follows:
 
 ## 3.	Please fix, optimize, and/or modify the component as much as you think is necessary.
 
-pls Look in repo For code.
+pls Look in repo For code. List.js
 
 
 
